@@ -1,0 +1,9 @@
+C:\Repo\GitHub\NetCore2017\NetCore2017\bin\Release\netcoreapp1.1\NetCore2017.deps.json
+C:\Repo\GitHub\NetCore2017\NetCore2017\bin\Release\netcoreapp1.1\NetCore2017.runtimeconfig.json
+C:\Repo\GitHub\NetCore2017\NetCore2017\bin\Release\netcoreapp1.1\NetCore2017.runtimeconfig.dev.json
+C:\Repo\GitHub\NetCore2017\NetCore2017\bin\Release\netcoreapp1.1\NetCore2017.dll
+C:\Repo\GitHub\NetCore2017\NetCore2017\bin\Release\netcoreapp1.1\NetCore2017.pdb
+C:\Repo\GitHub\NetCore2017\NetCore2017\obj\Release\netcoreapp1.1\NetCore2017.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\NetCore2017\NetCore2017\obj\Release\netcoreapp1.1\NetCore2017.AssemblyInfo.cs
+C:\Repo\GitHub\NetCore2017\NetCore2017\obj\Release\netcoreapp1.1\NetCore2017.dll
+C:\Repo\GitHub\NetCore2017\NetCore2017\obj\Release\netcoreapp1.1\NetCore2017.pdb
