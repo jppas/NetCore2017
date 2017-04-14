@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace NetCore2017.Controllers
 {
+    //My first comment
     public class HomeController : Controller
     {
         public IActionResult Index()
