@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{502ED1F2-5F16-43B3-B8B8-E280CECEE17F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetCore2017/Startup.cs">
+    <Files>
+      <File FileName="NetCore2017/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="NetCore2017/Startup.cs" Line="42" Column="29" />
+      <File FileName="NetCore2017/appsettings.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NetCore2017 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
